@@ -1,0 +1,48 @@
+body{
+    font-family:'Lobster',cursive;
+    background:#F8C8DC;
+}
+.header_div {
+
+background:seashell;
+color:darkred;
+}
+.header_div p {
+font-family:"Roboto",sans-serif;
+color:grey;
+letter-spacing: 2px;
+font-weight:bold;
+font-size: 12px;
+}
+.main_div button {
+    font-family:"Roboto",sans-serif;
+    font-weight:bolder;
+    letter-spacing: 3px;
+    margin-top: 30px;
+    width:130px;
+    
+}
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width:100%; 
+    background-color:whitesmoke;
+    color:grey;
+    line-height:3;
+    text-align: center;
+    text-shadow:5px 5px 5px rgb(151,149,149);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
